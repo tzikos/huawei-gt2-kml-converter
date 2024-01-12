@@ -1,5 +1,4 @@
 import xml.etree.ElementTree as ET
-import xml.dom.minidom
 import pandas as pd
 import os
 
