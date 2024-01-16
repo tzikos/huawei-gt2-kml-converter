@@ -3,6 +3,7 @@
 ## Overview
 
 This Python script converts KML files exported from Huawei GT2 watches into a structured table format, making it easier for further analysis. The resulting table includes columns for Date, Time, Latitude (Lat), Longitude (Lng), and Altitude. It is required that you place all your kml files into the kmls folder.
+Tableau public link : https://public.tableau.com/app/profile/dimitrios.papantzikos2056/viz/PersonalRecordedRuns2021-2024/Viz?publish=yes
 
 ## Installation
 
